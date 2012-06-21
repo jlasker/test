@@ -1,0 +1,1 @@
+﻿package  {		public class TestClass {		public function TestClass() {			// constructor code		}	}	}
