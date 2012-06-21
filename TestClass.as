@@ -1,1 +1,1 @@
-﻿package  {		public class TestClass {		public function TestClass() {			// constructor code		}	}	}
+﻿package  {		public class TestClass {		public function TestClass() {			// constructor code			init();		}				public function init():void{			trace("init");		}	}	}
